@@ -1,2 +1,3 @@
 # kondi-projekt
+ Szia Pipo
  
