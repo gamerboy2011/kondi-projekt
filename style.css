@@ -11,7 +11,7 @@ body{
 .header{
     display: flex;
     height: 80px;
-    background:rgb(78, 78, 78);
+    background:lightblue;
     justify-content: center;
     align-items: center;
 }
@@ -29,7 +29,7 @@ body{
     padding: 0;
     overflow: hidden;
     color: white;
-    background-color: rgb(78, 78, 78);
+    background-color: lightblue;
 }
 
 .navbar li {
