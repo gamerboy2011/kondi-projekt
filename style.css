@@ -11,7 +11,7 @@ body{
 .header{
     display: flex;
     height: 80px;
-    background:lightblue;
+   background-image: url(https://thekeyschool.org/wp-content/uploads/2021/04/what-is-autism-spectrum-disorder.png);
     justify-content: center;
     align-items: center;
 }
